@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/news_nav_graph"
+    app:startDestination="@id/breedListFragment">
+
+    <fragment
+        android:id="@+id/breedListFragment"
+        android:name="com.cat.search.ui.breeds.BreedListFragment"
+        android:label="fragment_cat_breeds"
+        tools:layout="@layout/fragment_breed_list">
+        <action
+            android:id="@+id/action_catBreedListFragment_to_breedFragment"
+            app:destination="@id/breedFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/savedBreedFragment"
+        android:name="com.cat.search.ui.savedbreeds.SavedBreedsFragment"
+        android:label="fragment_saved_breeds"
+        tools:layout="@layout/fragment_saved_breeds">
+        <action
+            android:id="@+id/action_savedBreedsFragment_to_breedFragment"
+            app:destination="@id/breedFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/searchBreedsFragment"
+        android:name="com.cat.search.ui.searchbreeds.SearchBreedsFragment"
+        android:label="fragment_search_breed"
+        tools:layout="@layout/fragment_search_breeds">
+        <action
+            android:id="@+id/action_searchBreedsFragment_to_breedFragment"
+            app:destination="@id/breedFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/breedFragment"
+        android:name="com.cat.search.ui.breeds.BreedFragment"
+        android:label="fragment_breed"
+        tools:layout="@layout/fragment_breed">
+        <argument
+            android:name="breed"
+            app:argType="com.cat.search.data.model.Breed" />
+    </fragment>
+</navigation>

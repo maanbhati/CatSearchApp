@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/breedListFragment"
+        android:icon="@drawable/ic_breeds"
+        android:title="@string/breeds" />
+
+    <item
+        android:id="@+id/savedBreedFragment"
+        android:icon="@drawable/ic_favorite"
+        android:title="@string/saved_breeds" />
+
+    <item
+        android:id="@+id/searchBreedsFragment"
+        android:icon="@drawable/ic_all_breeds"
+        android:title="@string/search_breeds" />
+</menu>

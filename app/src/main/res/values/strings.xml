@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CatSearchApp</string>
+    <string name="image_desc">Cat Image</string>
+    <string name="abc_name">abc name</string>
+    <string name="show_saved_data">Showing saved data now.</string>
+    <string name="no_network_connection">No network connection.</string>
+    <string name="network_failure">Network failure.</string>
+    <string name="error_in_data_conversion">Error in data conversion.</string>
+    <string name="breed_saved_now">Breed Saved Now.</string>
+    <string name="problem_in_data_saving">Problem in saving the data.</string>
+    <string name="breed_deleted">Breed Deleted!.</string>
+    <string name="search_hint">Search…</string>
+    <string name="breeds">Breeds</string>
+    <string name="search_breeds">Search Breeds</string>
+    <string name="saved_breeds">Saved Breeds</string>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/CatBreed.View"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/margin_small"
+    android:layout_marginEnd="@dimen/margin_small"
+    app:cardElevation="@dimen/card_elevation">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/drawable_list_item">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/catImage"
+            style="@style/CatBreed.Image"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/image_size"
+            android:contentDescription="@string/image_desc"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/catName"
+            style="@style/CatBreed.Name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toBottomOf="@+id/catImage"
+            app:layout_constraintEnd_toEndOf="@+id/catImage"
+            app:layout_constraintStart_toStartOf="@+id/catImage"
+            tools:text="@string/abc_name" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/temperament"
+            style="@style/CatBreed.Temperament"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toStartOf="@+id/catName"
+            app:layout_constraintTop_toBottomOf="@+id/catName"
+            tools:text="@string/abc_name" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/wikiUrl"
+            style="@style/CatBreed.WikiLink"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toStartOf="@+id/temperament"
+            app:layout_constraintTop_toBottomOf="@+id/temperament"
+            tools:text="@string/abc_name" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>

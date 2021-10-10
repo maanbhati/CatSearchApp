@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+
+    <!-- List style -->
+    <dimen name="card_elevation">@dimen/margin_small</dimen>
+    <dimen name="card_margin">8dp</dimen>
+    <dimen name="normal_padding">8dp</dimen>
+    <dimen name="image_size">150dp</dimen>
+    <dimen name="image_size_large">200dp</dimen>
+    <dimen name="textview_size_normal">14sp</dimen>
+    <dimen name="textview_size_medium">16sp</dimen>
+</resources>

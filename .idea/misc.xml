@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Bhati/Desktop/Android_Interview_Prep/Hilt_Projects/CatSearchApp/app/src/main/res/drawable/drawable_list_item.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Bhati/Desktop/Android_Interview_Prep/Hilt_Projects/CatSearchApp/app/src/main/res/drawable/ic_all_breeds.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Bhati/Desktop/Android_Interview_Prep/Hilt_Projects/CatSearchApp/app/src/main/res/drawable/ic_all_news.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Bhati/Desktop/Android_Interview_Prep/Hilt_Projects/CatSearchApp/app/src/main/res/drawable/ic_breaking_news.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Bhati/Desktop/Android_Interview_Prep/Hilt_Projects/CatSearchApp/app/src/main/res/drawable/ic_breeds.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Bhati/Desktop/Android_Interview_Prep/Hilt_Projects/CatSearchApp/app/src/main/res/drawable/ic_favorite.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Bhati/Desktop/Android_Interview_Prep/Hilt_Projects/CatSearchApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Bhati/Desktop/Android_Interview_Prep/Hilt_Projects/CatSearchApp/app/src/main/res/layout/activity_breeds.xml" value="0.2421875" />
+        <entry key="..\:/Users/Bhati/Desktop/Android_Interview_Prep/Hilt_Projects/CatSearchApp/app/src/main/res/layout/activity_main.xml" value="0.2421875" />
+        <entry key="..\:/Users/Bhati/Desktop/Android_Interview_Prep/Hilt_Projects/CatSearchApp/app/src/main/res/layout/activity_news.xml" value="0.2421875" />
+        <entry key="..\:/Users/Bhati/Desktop/Android_Interview_Prep/Hilt_Projects/CatSearchApp/app/src/main/res/layout/fragment_article.xml" value="0.2421875" />
+        <entry key="..\:/Users/Bhati/Desktop/Android_Interview_Prep/Hilt_Projects/CatSearchApp/app/src/main/res/layout/fragment_breaking_news.xml" value="0.2421875" />
+        <entry key="..\:/Users/Bhati/Desktop/Android_Interview_Prep/Hilt_Projects/CatSearchApp/app/src/main/res/layout/fragment_breed.xml" value="0.2421875" />
+        <entry key="..\:/Users/Bhati/Desktop/Android_Interview_Prep/Hilt_Projects/CatSearchApp/app/src/main/res/layout/fragment_breed_list.xml" value="0.2421875" />
+        <entry key="..\:/Users/Bhati/Desktop/Android_Interview_Prep/Hilt_Projects/CatSearchApp/app/src/main/res/layout/fragment_cat_breeds.xml" value="0.2421875" />
+        <entry key="..\:/Users/Bhati/Desktop/Android_Interview_Prep/Hilt_Projects/CatSearchApp/app/src/main/res/layout/fragment_saved_breeds.xml" value="0.2421875" />
+        <entry key="..\:/Users/Bhati/Desktop/Android_Interview_Prep/Hilt_Projects/CatSearchApp/app/src/main/res/layout/fragment_saved_news.xml" value="0.2421875" />
+        <entry key="..\:/Users/Bhati/Desktop/Android_Interview_Prep/Hilt_Projects/CatSearchApp/app/src/main/res/layout/fragment_search_breeds.xml" value="0.2421875" />
+        <entry key="..\:/Users/Bhati/Desktop/Android_Interview_Prep/Hilt_Projects/CatSearchApp/app/src/main/res/layout/fragment_search_news.xml" value="0.2421875" />
+        <entry key="..\:/Users/Bhati/Desktop/Android_Interview_Prep/Hilt_Projects/CatSearchApp/app/src/main/res/layout/item_article_preview.xml" value="0.2421875" />
+        <entry key="..\:/Users/Bhati/Desktop/Android_Interview_Prep/Hilt_Projects/CatSearchApp/app/src/main/res/layout/item_breed_list.xml" value="0.2421875" />
+        <entry key="..\:/Users/Bhati/Desktop/Android_Interview_Prep/Hilt_Projects/CatSearchApp/app/src/main/res/layout/item_case_study.xml" value="0.2421875" />
+        <entry key="..\:/Users/Bhati/Desktop/Android_Interview_Prep/Hilt_Projects/CatSearchApp/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.2421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
