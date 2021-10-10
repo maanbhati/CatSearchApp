@@ -42,4 +42,4 @@ This app uses [MVVM (Model View View-Model)] architecture.
 ### App Screen shot
 
 Breed List Fragment:
-![alt text](https://github.com/maanbhati/CatSearchApp/blob/main/breed_list.png.png?raw=true)
+![screen text](https://github.com/maanbhati/CatSearchApp/blob/main/breed_list.png.png?raw=true)
