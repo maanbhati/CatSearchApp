@@ -38,3 +38,8 @@ The App is using the [The Cat Api] for searching cat by it's breed name.
 This app uses [MVVM (Model View View-Model)] architecture.
 
 ![alt text](https://github.com/maanbhati/CatSearchApp/blob/main/mvvm_architecture.png?raw=true)
+
+### App Screen shot
+
+Breed List Fragment:
+![alt text](https://github.com/maanbhati/CatSearchApp/blob/main/breed_list.png.png?raw=true)
