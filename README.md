@@ -27,7 +27,7 @@ The App is using the [The Cat Api] for searching cat by it's breed name.
    [Kotlin]: <https://kotlinlang.org>
    [Coroutines]: <https://kotlinlang.org/docs/coroutines-overview.html>
    [MVVM (Model View View-Model)]: <https://developer.android.com/jetpack/guide#recommended-app-arch>
-   [The Cat Api]: <https://docs.thecatapi.com/>
+   [The Cat Api]: <https://thecatapi.com/>
    [Room]: <https://developer.android.com/training/data-storage/room/>
    [Mockito]:  <https://site.mockito.org/?>
    [MockK]:  <https://mockk.io/>
