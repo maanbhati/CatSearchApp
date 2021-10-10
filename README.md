@@ -1,6 +1,6 @@
 # CatSearchApp
- ### A simple Cat search app by it's breed name, using MVVM clean Architecture.
-The App is using the [The Cat Api] to searching cat by it's breed name.
+ ### A simple Cat Search app, performed the search by cat breed name, using MVVM clean Architecture.
+The App is using the [The Cat Api] for searching cat by it's breed name.
 
 ### Build With 🏗️
 - [Kotlin] - Programming language for Android
