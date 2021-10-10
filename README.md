@@ -1,6 +1,7 @@
 # CatSearchApp
  ### A simple Cat Search app, performed the search by cat breed name, using MVVM clean Architecture.
 The App is using the [The Cat Api] for searching cat by it's breed name.
+Get Your [Api Key] for using the Api key inside CatSearchApp.
 
 ### Build With 🏗️
 - [Kotlin] - Programming language for Android
@@ -28,6 +29,7 @@ The App is using the [The Cat Api] for searching cat by it's breed name.
    [Coroutines]: <https://kotlinlang.org/docs/coroutines-overview.html>
    [MVVM (Model View View-Model)]: <https://developer.android.com/jetpack/guide#recommended-app-arch>
    [The Cat Api]: <https://thecatapi.com/>
+   [Api Key]:  <https://thecatapi.com/signup>
    [Room]: <https://developer.android.com/training/data-storage/room/>
    [Mockito]:  <https://site.mockito.org/?>
    [MockK]:  <https://mockk.io/>
